@@ -2,7 +2,7 @@
 Udacity google scholarship challenge project Pixel Art Maker using html,css, javascript: jQuery
 2018.01
 Online version: https://codepen.io/NickMa/pen/rJBaVz
-
+https://cdn.rawgit.com/mayujie/Pixel-Art-Maker/b63d786d/index.html
 # Pixel Art Maker Project
 
 ## Table of Contents
