@@ -4,7 +4,7 @@ Udacity google scholarship challenge project Pixel Art Maker using html,css, jav
 Online version: https://codepen.io/NickMa/pen/rJBaVz
 
 # Pixel Art Maker Project
-
+[Play Online](https://mayujie.github.io/Pixel-Art-Maker/).
 ## Table of Contents
 
 * [Instructions](#instructions)
